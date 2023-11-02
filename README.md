@@ -1,4 +1,4 @@
-# Zesta ICHack drowsiness-detection
+# drowsiness-detection based on siamese neural networks
 Drowsiness detector made for the ichack 2023 organised by ieee at muj by 
 - [Sanchit Lamba](https://github.com/sanchit-lamba)
 - [Divit Mittal](https://github.com/DivitMittal) 
